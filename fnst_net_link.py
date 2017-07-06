@@ -5,6 +5,7 @@
 #
 # auto complete network connection certification
 #
+# version 0.1
 
 import urllib2
 import urllib
