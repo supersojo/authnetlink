@@ -1,6 +1,6 @@
 # authnetlink
 authentication for net link 
 
-适用工具，登陆ssh服务器做自动化配置。
+自动验证登陆网络小工具。
 
-采用python的pymiro库实现ssh连接。
+使用urllib2网络库和wx界面库。
