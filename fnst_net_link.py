@@ -20,8 +20,8 @@ class FnstNetLinkAuth(object):
     '''
     auto complete network connnection auth
     '''
-    login_url = 'http://10.167.197.50:90/login'
-    refer_url = 'http://10.167.197.50:90/p/30247dd99271a6806206be0598a1cf9e/index.html?aHR0cDovL2JhaWR1LmNvbS8='
+    login_url = 'http://x.x.x.x:90/login'
+    refer_url = 'http://x.x.x.x:90/p/30247dd99271a6806206be0598a1cf9e/index.html?aHR0cDovL2JhaWR1LmNvbS8='
     def __init__(self,user=None,passwd=None,debug=None):
         self.user = user
         self.passwd = passwd
